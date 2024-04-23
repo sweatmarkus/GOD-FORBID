@@ -1,0 +1,46 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/8G/W4O7J73JMQFSRJV1KOMXQL.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/JP/Q2YE56GB6BOZ1VNTJS6RCW.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/ML/6XRCSN05FOALQP83TH2EVH.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/B2/UPRSQF093XBDQV3II9WTI2.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/HL/ABC7Q6UYG94ZJHT783ML9F.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/I9/N6UCYFZ7N3VOYVJ0V4MM88.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/N1/2INFFNWUZ0IPWQ4212YFRB.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/15/E1P44R8LWK57L22Z64NXGM.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/4C/PP72X1R1AHPB7EOND9U4OP.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/QM/PSAVSHEUNW52MJ18TEDLCX.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/YJ/LIQEXKI8U2LXQTHJO1SF49.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/76/3W0OLYNRKZFIFF61HMN7AK.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/TN/0YS66W6WXL36V178W7TR1P.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/GD/509L7VLARINNIMZT5VUI90.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/DT/GRJJKV6YD071X7CBJS7HWL.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/ZY/K4GVM2IUVS79TSNKBOMJCO.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/LP/3BPIUQXDWONLMQVZW93Q7U.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/VV/BJL2DZR74ENIV4S08CTU3I.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/3P/PQ3ROSO6SZYZ8I1DOTXHOU.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/NI/KJNJLB5PU265FW92FGG855.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/Blueprints/Compass.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/8/Z7/W1SXRCM1KAKBJOIZDLHZ47.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/PR/1KZ9I0QIKF3ML9YJL0QSTO.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/UR/GPZT9G8X35UXKU7S1BTQ73.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/1/73/L7BIWSWZ85RPPONSLN87RU.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/FirstPerson/Maps/FirstPersonMap.umap",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/Blueprints/Capture.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/Blueprints/Othala-Rune-Meaning-and-History.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/Blueprints/Othala-Rune-Meaning-and-History_2.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/Blueprints/DockFBX.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/Blueprints/standardSurface1.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/StarterContent/Textures/T_Wood_Oak_Mat.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/StarterContent/Textures/T_Wood_Pine_Mat.uasset",
+				"C:/Users/sweatm1/Documents/GitHub/Game-GP/MyProject/Content/Blueprints/Point_bird.uasset"
+			]
+		}
+	]
+}
